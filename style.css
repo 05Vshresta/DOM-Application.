@@ -1,0 +1,46 @@
+.dark-background{
+  background-color: #020000;
+  width: 100vw;
+  height: 80vh;
+}
+.bulb-img{
+   width:200px;
+}
+.cat-img{
+   width:200px;
+   background-color:#0b0b0b;
+}
+.switch-board{
+   background-color:#04284f ;
+   width:350px;
+   height: 120px;
+   padding-left:30px;
+   padding-right: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 20px;
+   margin:10px;
+}
+.switch-status{
+   color: white;
+}
+.on-switch{
+   color:#ffffff;
+   background-color: rgb(36, 223, 61);
+   font-family: "Roboto";
+   font-size: 24px;
+   font-weight:bold;
+   width: 90px;
+   height: 44px;
+   border-radius: 8px;
+}
+.off-switch{
+   color:#ffffff;
+   background-color:#e81111 ;
+   font-family: "Roboto";
+   font-size: 24px;
+   font-weight:bold;
+   width: 90px;
+   height: 44px;
+   border-radius: 8px;
+}
