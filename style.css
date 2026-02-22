@@ -5,9 +5,11 @@
 }
 .bulb-img{
    width:200px;
+   height:200px;
 }
 .cat-img{
    width:200px;
+   height:200px;
    background-color:#0b0b0b;
 }
 .switch-board{
